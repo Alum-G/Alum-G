@@ -12,12 +12,17 @@
 
 Developer with true Nigerian roots <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       
-- :telescope: Building my Devops skills one deployment at a time.
+:telescope: Building my Devops skills one deployment at a time.
 
-- :zap: In my free time, I play with ChatGPT.
+In my free time, I play with ChatGPT.
 
-- :mailbox:Send emails to alumonacg@gmail.com
+:mailbox:Send emails to alumonacg@gmail.com
       
+Drake is the GOAT
+      
+<div id="header" align="center"><img src="https://media0.giphy.com/media/J2CLvzhay29UwhkAKT/giphy.gif?cid=ecf05e47koi4pai1r165t8y0r9g6rdgxrd8v4dxxjctpwxdf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
+      
+    
       
 
 ---
