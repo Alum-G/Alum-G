@@ -8,7 +8,7 @@
       
 
 
-Developer with true Nigerian roots <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Canadian based developer with true Nigerian roots <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       
 :telescope: Building my Devops skills one deployment at a time.
 
