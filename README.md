@@ -16,9 +16,7 @@ In my free time, I play with ChatGPT.
 
 :mailbox:Send emails to alumonacg@gmail.com
       
-Drake is the GOAT
-      
-<div id="header" align="center"><img src="https://media0.giphy.com/media/J2CLvzhay29UwhkAKT/giphy.gif?cid=ecf05e47koi4pai1r165t8y0r9g6rdgxrd8v4dxxjctpwxdf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
+
       
     
       
